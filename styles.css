@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Calgary.jpeg') no-repeat 1% 80%;
+  background: url('images/Calgary.jpeg') no-repeat 80%;
   min-height: 100%;
   background-size: cover;
   overflow: hidden;
