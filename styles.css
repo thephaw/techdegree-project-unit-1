@@ -132,6 +132,10 @@ footer {
 
 footer .copyright {
   top: -8px;
+  font-size: .5em;
+}
+
+footer .note {
   font-size: .75em;
 }
 
