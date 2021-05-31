@@ -190,7 +190,9 @@ a.social:hover {
   header {
     min-height: 470px;
   }
-
+  .header-2 {
+    min-height: 470px;
+  }
   .nav {
     max-width: 1200px;
     padding: 0 30px;
